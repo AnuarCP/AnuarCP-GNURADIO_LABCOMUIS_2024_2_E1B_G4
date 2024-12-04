@@ -1,1 +1,1 @@
-# AnuarCP-GNURADIO_LABCOMUIS_2024_2_E1B_G4
+¡Hola! Somos Karol y Anwar, estudiantes de Ingeniería Electrónica en la Universidad Industrial de Santander. En este repositorio de  Laboratorio de Comunicaciones, es diseñado como un recurso clave para el aprendizaje y desarrollo de sistemas utilizando GNU Radio. Este repositorio contiene ejemplos prácticos, bloques personalizados y documentación esencial para explorar las diversas capacidades de GNU Radio en el diseño, simulación y prueba de sistemas de comunicación. 
